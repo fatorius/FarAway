@@ -22,3 +22,4 @@ C:\Users\HugoSouza\Documents\programs\FarAway\obj\Debug\netcoreapp3.1\FarAway.cs
 C:\Users\HugoSouza\Documents\programs\FarAway\obj\Debug\netcoreapp3.1\FarAway.dll
 C:\Users\HugoSouza\Documents\programs\FarAway\obj\Debug\netcoreapp3.1\FarAway.pdb
 C:\Users\HugoSouza\Documents\programs\FarAway\obj\Debug\netcoreapp3.1\FarAway.genruntimeconfig.cache
+C:\Users\HugoSouza\Documents\programs\FarAway\bin\Debug\netcoreapp3.1\Content\Fonts\BasicFont.xnb
